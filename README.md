@@ -78,6 +78,7 @@ India-General-Election-Results-2024-Dashboard/
 
 Rohit Lakha
 🎓 MCA Student | Data Analyst | Power BI & SQL Enthusiast
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohit-lakha/)  
 
 ---
 ## 📜 Credits
