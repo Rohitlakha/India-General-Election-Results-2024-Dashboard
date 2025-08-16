@@ -71,7 +71,7 @@ India-General-Election-Results-2024-Dashboard/
 ```
 
 ## 📸 Dashboard Preview
-![Overviw dashboard]()
+![Overviw dashboard](https://github.com/Rohitlakha/India-General-Election-Results-2024-Dashboard/blob/90310cd50f8ef952e0d0e6a361d222d14b427099/Screenshort/overview%20dashboard.png)
 
 ---
 ## 👨‍💻 Author
