@@ -4,6 +4,8 @@
 ![SQL](https://img.shields.io/badge/Database-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Data-MS%20Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)  
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen?style=flat)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-lakha/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/Rohitlakha)
 
 This project presents an **interactive Power BI report** on the **India General Election Results 2024**, designed to deliver **insightful visualizations and analytics** on seat distribution, political alliances, state demographics, and constituency-level performance.  
 
@@ -86,8 +88,9 @@ India-General-Election-Results-2024-Dashboard/
 Rohit Lakha
 🎓 MCA Student | Data Analyst | Power BI & SQL Enthusiast
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/rohit-lakha/)  
-🔗 [GitHub Profile](https://github.com/Rohitlakha)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-lakha/)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white)](https://github.com/Rohitlakha)
+
 
 
 ---
